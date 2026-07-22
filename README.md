@@ -1,9 +1,6 @@
 ![Zewex22](img/github-header-banner.png)
 
 
-- 🌱 I’m currently learning [**Laravel**](https://laravel.com) framework
-- 🌱 I’m currently learning [**Tailwind**](https://tailwindcss.com) framework
-
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,laravel,tailwind,github,git,vscode,java,nodejs,photoshop,figma&theme=light)](https://skillicons.dev)
