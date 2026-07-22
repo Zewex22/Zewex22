@@ -8,12 +8,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,laravel,tailwind,github,git,vscode,java,nodejs,photoshop,figma&theme=light)](https://skillicons.dev)
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=ZEWEX22&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/ZEWEX22/ZEWEX22/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
+### Socials
 
 <div data-importer="socials" align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -22,6 +17,14 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
 </div>
+
+##
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=ZEWEX22&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/ZEWEX22/ZEWEX22/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
 
 ###
 
